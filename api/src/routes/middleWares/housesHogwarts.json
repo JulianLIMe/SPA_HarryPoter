@@ -1,0 +1,18 @@
+[
+    {
+        "house": "Gryffindor",
+        "id": 1
+    },
+    {
+        "house": "Hufflepuff",
+        "id": 2
+    },
+    {
+        "house": "Ravenclaw",
+        "id": 3
+    },
+    {
+        "house": "Slytherin",
+        "id": 4
+    }
+]
